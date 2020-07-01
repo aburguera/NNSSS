@@ -49,10 +49,9 @@ Two pre-trained models are provided in the MODELS folder:
 
 To use one of these models just use the ModelWrapper load member function. For example:
 
-from modelwrapper import ModelWrapper
-
-theModel=ModelWrapper()
-theModel.load('MODELS/TEST_MODEL')
+    from modelwrapper import ModelWrapper
+    theModel=ModelWrapper()
+    theModel.load('MODELS/TEST_MODEL')
 
 Check example_modelwrapper.ipynb and example_tester.ipynb for more information.
 
