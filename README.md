@@ -3,10 +3,10 @@
 This code makes it possible to segment Side-Scan Sonar (SSS) acoustic images into three different classes: rock, sand and others. The segmentation is based on a Convolutional Neural Network (CNN) and it is aimed at on-line operation.
 
 This is the kind of input our system deals with:
-![Acoustic Image](https://github.com/aburguera/NNSSS/blob/master/DATASET/DATA/TRAO00.png)
+![Acoustic Image](https://github.com/aburguera/NNSSS/blob/master/DATASET/DATA/TRAN00.png)
 
 This is the kind of output ir produces:
-![Ground truth](https://github.com/aburguera/NNSSS/blob/master/DATASET/GT/TRAO00.png)
+![Ground truth](https://github.com/aburguera/NNSSS/blob/master/DATASET/GT/TRAN00.png)
 
 If you use this software, please cite the following paper:
 
