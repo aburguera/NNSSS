@@ -10,7 +10,7 @@ This is the kind of output ir produces:
 
 If you use this software, please cite the following paper:
 
-Paper reference (to be posted soon)
+A. Burguera, F. Bonin-Font. On-Line Multi-Class Segmentation of Side-Scan Sonar Imagery Using an Autonomous Underwater Vehicle. In Journal of Marine Science and Engineering, MDPI, Special Issue Localization, Mapping and SLAM in Marine and Underwater Environments, MDPI, vol. 8, no. 557, July, 2020
 
 Also, the whole process is carefully described in the paper. Please read the paper to understand how the system works.
 
